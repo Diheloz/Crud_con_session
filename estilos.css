@@ -1,0 +1,11 @@
+table{
+    margin: auto;
+    border: 4px dotted aquamarine;
+    background-color:blueviolet;
+    text-align: center;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-image: url ("../imagenes/fondo_login.jpg");
+}

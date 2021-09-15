@@ -56,21 +56,8 @@
 <head>
 	<meta charset="utf-8">
 	<title></title>
-
-	<style type="text/css">
-		
-	table{
-		margin: auto;
-		border: 2px dotted red;
-		background-color: gray;
-		text-align: center;
-		color: white;
-	}
-	body{
-		background-color: pink;
-	}
-
-	</style>
+	<link rel="stylesheet" type="text/css" href="../estilos.css" />
+	
 </head>
 <body>
 	<form method="post">
