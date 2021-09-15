@@ -1,11 +1,17 @@
 table{
     margin: auto;
-    border: 4px dotted aquamarine;
-    background-color:blueviolet;
+    border: 4px dotted;
+    background-color:transparent;
     text-align: center;
-    color: white;
+    color: gray;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
 }
 body{
-    background-image: url ("../imagenes/fondo_login.jpg");
+    background-image: url("imagenes/fondo_login.jpg");
+    background-size: cover;
+   
+    
+    
+    
 }

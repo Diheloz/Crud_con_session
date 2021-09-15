@@ -59,7 +59,7 @@
 	<link rel="stylesheet" type="text/css" href="../estilos.css" />
 	
 </head>
-<body>
+<body >
 	<form method="post">
 		<table>
 			<tr><td colspan="2">Bienvenido...Por favor inicie sesion</td></tr>
