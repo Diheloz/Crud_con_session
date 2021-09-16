@@ -9,7 +9,12 @@ table{
 }
 body{
     background-color:indianred;
-    padding: 50px;
+    background-size: cover;
+    min-width: 480px;
+    max-width: 1920px;
+    min-height: 480px;
+    max-height: 1080px;
+    padding-top: 120px;
     padding-left: 500px;
     padding-right: 500px;
        
